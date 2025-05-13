@@ -1,0 +1,28 @@
+##output( NQUEENS)
+Arrangement 1
+..Q.
+Q...
+...Q
+.Q..
+Arrangement 2
+.Q..
+...Q
+Q...
+..Q.
+
+##output(bubble sort)
+2. Bubble sort
+Enter the number of elements in the array: 10
+array before bubble sort:
+38 65 21 74 83 17 32 56 42 93 
+
+array after bubble sort:
+17 21 32 38 42 56 65 74 83 93 
+
+Count: 23
+Time taken for bubble sort: 0.000028 seconds
+
+##output(topological sort)
+
+Topological sort order:
+5 4 3 2 1
